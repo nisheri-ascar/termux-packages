@@ -1,0 +1,7 @@
+TERMUX_PKG_HOMEPAGE="https://www.pypy.org"
+TERMUX_PKG_DESCRIPTION="A JIT implementation of Python language."
+TERMUX_PKG_LICENSE="MIT"
+TERMUX_PKG_MAINTAINER="@nisheri-ascar"
+TERMUX_PKG_VERSION="3.8"
+TERMUX_PKG_SRCURL="https://downloads.python.org/pypy/pypy3.8-v7.3.7-src.tar.bz2"
+TERMUX_PKG_SHA256="21ae339f4f5016d6ca7300305f3e3b554373835cb3c39a9041fe30e6811c80c6"
