@@ -8,6 +8,7 @@ TERMUX_PKG_SHA256=541a6803504b46677ee3b47e5e71bb78ded30c54e132581a10e780f67a6244
 #termux_pkg_depends=rust
 #termux_pkg_build_in_src=true
 TERMUX_PKG_BUILD_IN_SRC=true
+E=1
 
 termux_step_make() {
 	termux_setup_rust
